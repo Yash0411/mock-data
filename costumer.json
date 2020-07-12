@@ -1,0 +1,136 @@
+{
+  "costumers": [
+    {
+      "id": 1,
+      "cat": "Vendor",
+      "name": "Costumer1",
+      "addr": "Address",
+      "phno": "PhNo",
+      "warehousesno": 2,
+      "area": "234sft",
+      "warehouses": [
+        "Warehouse 1",
+        "Warehouse 1"
+      ],
+      "totalamt": 122,
+      "notranx": 6
+    },
+    {
+      "id": 2,
+      "cat": "Vendor",
+      "name": "Costumer2",
+      "addr": "Address",
+      "phno": "PhNo",
+      "warehousesno": 2,
+      "area": "234sft",
+      "warehouses": [
+        "Warehouse 1",
+        "Warehouse 1"
+      ],
+      "totalamt": 0,
+      "notranx": 0
+    },
+    {
+      "id": 3,
+      "cat": "Vendor",
+      "name": "Costumer3",
+      "addr": "Address",
+      "phno": "PhNo",
+      "warehousesno": 2,
+      "area": "234sft",
+      "warehouses": [
+        "Warehouse 1",
+        "Warehouse 1"
+      ],
+      "totalamt": 32,
+      "notranx": 1
+    },
+    {
+      "id": 4,
+      "cat": "Vendor",
+      "name": "Costumer4",
+      "addr": "Address",
+      "phno": "PhNo",
+      "warehousesno": 2,
+      "area": "234sft",
+      "warehouses": [
+        "Warehouse 1",
+        "Warehouse 1"
+      ],
+      "totalamt": 65,
+      "notranx": 1
+    },
+    {
+      "id": 5,
+      "cat": "Vendor",
+      "name": "Costumer5",
+      "addr": "Address",
+      "phno": "PhNo",
+      "warehousesno": 2,
+      "area": "234sft",
+      "warehouses": [
+        "Warehouse 1",
+        "Warehouse 1"
+      ],
+      "totalamt": 0,
+      "notranx": 0
+    },
+    {
+      "id": 6,
+      "cat": "Vendor",
+      "name": "Costumer6",
+      "addr": "Address",
+      "phno": "PhNo",
+      "warehousesno": 2,
+      "area": "234sft",
+      "warehouses": [
+        "Warehouse 6",
+        "Warehouse 6"
+      ],
+      "totalamt": 0,
+      "notranx": 0
+    }
+  ],
+  "payments": [
+    {
+      "id": 1,
+      "cat": "Vendor",
+      "name": "Costumer1",
+      "phno": "PhNo",
+      "tranxid": 1,
+      "otherinfo": "234sft",
+      "amtsent": 25,
+      "type": 1
+    },
+    {
+      "id": 2,
+      "cat": "Vendor",
+      "name": "Costumer2",
+      "phno": "PhNo",
+      "tranxid": 1,
+      "otherinfo": "234sft",
+      "amtsent": 25,
+      "type": 1
+    },
+    {
+      "id": 3,
+      "cat": "Vendor",
+      "name": "Costumer3",
+      "phno": "PhNo",
+      "tranxid": 1,
+      "otherinfo": "234sft",
+      "amtsent": 27,
+      "type": 1
+    },
+    {
+      "id": 4,
+      "cat": "Vendor",
+      "name": "Costumer4",
+      "phno": "PhNo",
+      "tranxid": 1,
+      "otherinfo": "234sft",
+      "amtsent": 25,
+      "type": 1
+    }
+  ]
+}
